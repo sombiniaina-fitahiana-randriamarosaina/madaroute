@@ -18,3 +18,5 @@ Techonologie
 Demo
 *******************
 https://madaroute.herokuapp.com/admin
+utilisateur : jean@gmail.com
+mdp : jean
